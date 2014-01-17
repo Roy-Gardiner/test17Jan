@@ -1,1 +1,10 @@
-What is a git 'upstream' command used for?
+'Upstream' links a cloned repository to its master.
+
+
+
+One can copy ('fork') another repository.
+
+This can then be copied ('cloned') to one's local machine.
+
+The 'upstream' command will then link the clone to the original (not the forked)
+repository, in order to be able retrieve changes to that repository.
