@@ -1,1 +1,10 @@
-What is a git branch?
+A branch is a series of changes to a repository which are held separately from the master sequence.
+
+
+
+A branch is a way of being able to make a sequence of changes to the master version of a 
+repository and then being able to merge those changes back into the master version.
+
+If and when a merge of a branch to the master is requested Git will handle this without
+the need for user intervention unless changes have been made to the master version that clash
+with what's been done in the branch.
