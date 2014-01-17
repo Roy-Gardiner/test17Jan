@@ -1,1 +1,4 @@
-What is a git clone?
+A clone is a copy of a repository that already exists on Github.
+
+The clone command, issued on one's local machine, reaches out to Git
+and brings a copy of a repository, in full, onto the local machine.
